@@ -1,6 +1,7 @@
 "use strict";
 const chapters = [
-  "Grobber Brentwood"
+  "Grobber Brentwood",
+  "Hav Kerloe"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
