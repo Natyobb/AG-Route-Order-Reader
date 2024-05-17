@@ -1,7 +1,19 @@
 "use strict";
 const chapters = [
   "Grobber Brentwood",
-  "Hav Kerloe"
+  "Bob Smith",
+  "Harriet Kadin",
+  "Carolyn Blythe",
+  "Shawn Duveldt",
+  "Sam Kidink",
+  "Ashley Laurier",
+  "Dana Craig",
+  "Ariel May",
+  "Unknown",
+  "Hav Kerloe",
+  "Lelouch Maoziwam",
+  "Ouroboros Stanley",
+  "Sean Niebel"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
