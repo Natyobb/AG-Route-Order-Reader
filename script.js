@@ -13,7 +13,8 @@ const chapters = [
   "Hav Kerloe",
   "Lelouch Maoziwam",
   "Ouroboros Stanley",
-  "Sean Niebel"
+  "Sean Niebel",
+  "Ceri Glean"
 ];
 const folderName = "AG Full";
 /** @type {HTMLSelectElement} */
